@@ -192,6 +192,7 @@
 			knownRegions = (
 				en,
 				Base,
+				de,
 			);
 			mainGroup = 29ECD7B62E2640F700FC66E6;
 			minimizedProjectReferenceProxies = 1;
@@ -400,6 +401,9 @@
 				DEVELOPMENT_TEAM = D4ZSVQQ3Z9;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_LSApplicationCategoryType = "";
+				INFOPLIST_KEY_NSLocationWhenInUseUsageDescription = "Diese App benötigt Zugriff auf deinen Standort, um Geschwindigkeit, Höhe und Kompass anzuzeigen.";
+				INFOPLIST_KEY_NSMotionUsageDescription = "Diese App benötigt Zugriff auf die Bewegungssensoren, um die Geräteneigung zu messen.";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -428,6 +432,9 @@
 				DEVELOPMENT_TEAM = D4ZSVQQ3Z9;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_LSApplicationCategoryType = "";
+				INFOPLIST_KEY_NSLocationWhenInUseUsageDescription = "Diese App benötigt Zugriff auf deinen Standort, um Geschwindigkeit, Höhe und Kompass anzuzeigen.";
+				INFOPLIST_KEY_NSMotionUsageDescription = "Diese App benötigt Zugriff auf die Bewegungssensoren, um die Geräteneigung zu messen.";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
